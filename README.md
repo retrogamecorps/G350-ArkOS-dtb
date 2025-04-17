@@ -5,8 +5,8 @@ Simple dtb repo to allow running vanilla ArkOS on the BATLEXP G350 handheld
 
 - Download the latest Anbernic RG351MP image from the <a href="https://github.com/christianhaitian/arkos/wiki">ArkOS wiki</a>
 - Flash the image to a reputable microSD card using a tool like Rufus or Raspberry Pi Imager
-- Once flashed, remove the SD card and put it back into your computer.  You will see a partition named "BOOT"
-- On that BOOT partition, replace the file named rk3326-rg351mp-linux.dtb with the file in this repo
+- Once flashed, remove the SD card and put it back into your computer.  You will see a partition named `BOOT`
+- On that `BOOT` partition, replace the file named `rk3326-rg351mp-linux.dtb` with the file in this repo
 - Insert the card into your G350, power it on, and enjoy your success
 
 ## Disclaimers
