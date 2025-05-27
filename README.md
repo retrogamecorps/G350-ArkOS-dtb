@@ -1,5 +1,5 @@
 # G350-ArkOS-dtb
-Simple dtb repo to allow running vanilla ArkOS on the BATLEXP G350 handheld
+Simple dtb repo to allow running vanilla ArkOS on the BATLEXP G350 handheld.  Part of my <a href="https://retrogamecorps.com/2023/03/27/arkos-starter-guide/">ArkOS Starter Guide</a>.
 
 ## Installation
 
